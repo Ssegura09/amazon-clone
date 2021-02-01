@@ -2,7 +2,7 @@
   display: flex;
   margin-top: 20px;
   margin-bottom: 20px;
-  text-align: right;
+  text-align: left;
 }
 
 .checkoutProduct__info {
@@ -25,4 +25,9 @@
 
 .checkoutProduct__rating {
   display: flex;
+}
+
+.checkoutProduct__title {
+  font-size: 17px;
+  font-weight: 800;
 }
