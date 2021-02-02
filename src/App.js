@@ -4,6 +4,7 @@ import './App.css';
 import Header from './Header.js';
 import Home from './Home.js';
 import Checkout from './Checkout.js';
+import Login from './Login.js';
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
       <div className='App'>
         <Switch>
           <Route path='/login'>
-            <h1>Login Page</h1>
+            <Login />
           </Route>
           <Route path='/checkout'>
             <Header />
