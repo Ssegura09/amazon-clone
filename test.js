@@ -29,7 +29,7 @@ function ContactYouPage() {
     </div>
   );
 }
-function Them() {
+function ThemThere() {
   return (
     <div>
       <Header />
