@@ -38,3 +38,23 @@ function ThemThereWhereAt() {
     </div>
   );
 }
+
+function ThemThereWherAt() {
+  return (
+    <div>
+      <Header2 />
+      <ContactInfo />
+      <Footer />
+    </div>
+  );
+}
+
+function ThemTh() {
+  return (
+    <div>
+      <Header />
+      <ContactInfoPage />
+      <Footer />
+    </div>
+  );
+}
