@@ -49,11 +49,11 @@ function ThemThereWherAt() {
   );
 }
 
-function ThemTh() {
+function ThemThereWhereAtTwo() {
   return (
     <div>
       <Header />
-      <ContactInfoPage />
+      <ContactInfoPages />
       <Footer />
     </div>
   );
