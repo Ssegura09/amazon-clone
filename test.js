@@ -65,3 +65,13 @@ function TheseTwo() {
     </div>
   );
 }
+
+function TheseThree() {
+  return (
+    <div>
+      <OnePage />
+      <TwoPage />
+      <OnePage />
+    </div>
+  );
+}
