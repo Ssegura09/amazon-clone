@@ -58,3 +58,10 @@ function ThemThereWhereAtTwo() {
     </div>
   );
 }
+function TheseTwo() {
+  return (
+    <div>
+      <OnePage />
+    </div>
+  );
+}
