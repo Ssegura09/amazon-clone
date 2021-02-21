@@ -71,7 +71,6 @@ function TheseThree() {
     <div>
       <OnePage />
       <TwoPage />
-      <OnePage />
     </div>
   );
 }
